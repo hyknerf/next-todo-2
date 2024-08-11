@@ -4,7 +4,7 @@ export default function Navbar() {
       <section>
         <div>
           <h1 className="text-center text-2xl font-semibold text-black dark:text-white">
-            Frenky's Todo Lust
+            Frenky&apos;s Todo List
           </h1>
         </div>
       </section>
